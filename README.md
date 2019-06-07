@@ -22,5 +22,5 @@ The sample description is :
 
 3)If there are bug and vulnerability , the owner of Dapp can update the code of P2P version control system to fix them and push the new Dapp to the customers. The customers only need to stop the Dapp and sync the new version Dapp and run it again. All of solution do not need to update the contract on the blockchain. 
 
-4) The container technology can help Dapp run on the any operation , it can help Dapp scale horizontally very efficiently and stability. Blockchain 4.0 will making full use of cloud computing advantages.
+4)The container technology can help Dapp run on the any operation , it can help Dapp scale horizontally very efficiently and stability. Blockchain 4.0 will making full use of cloud computing advantages.
 
