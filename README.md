@@ -4,19 +4,19 @@ BlockChain 4.0 is integrated of blockchain , cloud computing, Docker container a
 
 The sample description is :
 
-1)Developer the software application like cloud application.
+1)Developers program the software application like cloud application.
 
-2)Developer code the configuration file to smart contract and submit to blockchain
+2)Developers add the docker file of the application to smart contract and submit to blockchain.
 
 3)Upload the source code of application to software repository based P2P filesystem,for example:IPFS.
 
-4)The buyer or customer pay the token to smart contract and get the docker configuration , run the docker configuration of the application on any containered platform , cloud or local computer.
+4)The buyer  pay the token to smart contract and get the docker configuration , run the docker configuration of the application on any containered platform , cloud or local computer.
 
-5)Application docker download the code from the software repository based P2P filesystem,and begin the application.
+5)Application docker images download the code from the software repository based P2P filesystem,and run the application.
 
 # The benefit for this solution
 
-1)The contract used blockchain 4.0 is text file of container configuration text, it replace the solidity language of Ethereum blockchain. Any application developer can code the Dapp with their best program language, don’t learn new contract language.
+1)The contract includes container configuration text, it simplify the solidity language of Ethereum blockchain. Any application developer can code the Dapp with their best program language, don’t learn new contract language.
 
 2)All of code and application are pulled to repository of P2P source code version control system based P2P distributed file system, it will be well maintened and update ,upgrade, special all code and application can be tracked and audit . Only trade record will be recode on blockchain . All of operation data will be recoded to P2P distributed file system, they are tracked and audit.
 
